@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 Project  
-### [📑 Incident Response Analysis Case Study](#project-details)  
+### [📑 Incident Response Analysis Case Study](https://github.com/KarthikM-Cyber/Cyber_1)  
 *Click title to view detailed documentation*  
 
 ## 📚 Education  
