@@ -1,6 +1,6 @@
 # Karthik M  
 ![Status](https://img.shields.io/badge/Status-Seeking_Entry_Level_Roles-important)  
-**Cybersecurity Enthusiast** | **SOC Aspirant** | **Network Security Learner**  
+Cybersecurity enthusiast with a Google Cybersecurity Certificate, currently developing skills in threat detection, incident response, and security monitoring. Seeking an entry-level SOC Analyst role.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](www.linkedin.com/in/karthik-m-7370b7286)
 
