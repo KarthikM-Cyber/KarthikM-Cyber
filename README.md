@@ -31,15 +31,9 @@ Performed a simulated security audit of a fictional company. Identified vulnerab
 
 ## 🛠️ Skills & Tools
 - **Security Operations**: Threat detection, Incident response, Log analysis
-- **Tools**: SIEM (e.g., Splunk), Wireshark, Linux command line
-- **Concepts**: NIST CSF, CIA Triad, Vulnerability Management
-- **Soft Skills**: Problem-solving, communication, continuous learning
-
----
-
-## 📚 Education
-*(Omitted as per your request to not include non-cybersecurity education)*
-
+- **Tools**:  Splunk, Wireshark, Linux command line
+- **Security Frameworks**: NIST CSF, CIA Triad
+- **Soft Skills**: Adaptability,Attention to details, communication, continuous learning
 ---
 
 ## 📬 Contact for Opportunities
@@ -48,15 +42,7 @@ Performed a simulated security audit of a fictional company. Identified vulnerab
 📍 Tamil Nadu, India  
 
 ---
-
 🔐 *All projects contain sanitized data from training environments.*
-
----
-
-## 📎 Portfolio Access Options
-- [GitHub Portfolio](https://github.com/KarthikM-Cyber)
-- Available upon request via Google Drive / Google Sites
-
 ---
 
 *Updated: 2025*
