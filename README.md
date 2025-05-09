@@ -1,24 +1,62 @@
-# Karthik M  
-![Status](https://img.shields.io/badge/Status-Seeking_Entry_Level_Roles-important)  
+# Karthik M
+![Status](https://img.shields.io/badge/Status-Seeking_Entry_Level_Roles-important)
+
 Cybersecurity enthusiast with a Google Cybersecurity Certificate, currently developing skills in threat detection, incident response, and security monitoring. Seeking an entry-level SOC Analyst role.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](www.linkedin.com/in/karthik-m-7370b7286)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/karthik-m-7370b7286)
 
 ---
 
-## 🚀 Project  
-### [1.📑 DDoS Incident Response Analysis with NIST CSF](https://github.com/KarthikM-Cyber/Cyber_1) 
-### [2.📑Botium Toys Security Audit & Compliance Review](https://github.com/KarthikM-Cyber/cyber_2)   
-*Click title to view detailed documentation*  
+## 🧾 Professional Statement
+As a passionate and driven cybersecurity learner, I am dedicated to helping protect organizations from evolving digital threats. I enjoy working with technology, analyzing complex security incidents, and continuously expanding my knowledge to contribute to safe and resilient cyber environments.
 
+---
 
-## 📜 Certifications  
-- Google Cybersecurity Professional Certificate (2024)  
-- Google AI Essentials (2024)  
+## 🚀 Projects
+### [1. 📑 DDoS Incident Response Analysis with NIST CSF](https://github.com/KarthikM-Cyber/Cyber_1)
+Conducted a comprehensive analysis of a DDoS attack incident using the NIST Cybersecurity Framework. Documented incident response stages including preparation, detection, analysis, containment, eradication, and recovery.
 
-## 📬 Contact for Opportunities  
+### [2. 📑 Botium Toys Security Audit & Compliance Review](https://github.com/KarthikM-Cyber/cyber_2)
+Performed a simulated security audit of a fictional company. Identified vulnerabilities, evaluated compliance, and documented improvement recommendations in alignment with security best practices.
+
+> *Click on project titles to view full documentation.*
+
+---
+
+## 📜 Certifications
+- Google Cybersecurity Professional Certificate (2024)
+- Google AI Essentials (2024)
+
+---
+
+## 🛠️ Skills & Tools
+- **Security Operations**: Threat detection, Incident response, Log analysis
+- **Tools**: SIEM (e.g., Splunk), Wireshark, Linux command line
+- **Concepts**: NIST CSF, CIA Triad, Vulnerability Management
+- **Soft Skills**: Problem-solving, communication, continuous learning
+
+---
+
+## 📚 Education
+*(Omitted as per your request to not include non-cybersecurity education)*
+
+---
+
+## 📬 Contact for Opportunities
 📧 [karthik.022@outlook.com](mailto:karthik.022@outlook.com)  
 📞 +91 82483 05972  
 📍 Tamil Nadu, India  
 
-🔐 *All projects contain sanitized data from training environments*
+---
+
+🔐 *All projects contain sanitized data from training environments.*
+
+---
+
+## 📎 Portfolio Access Options
+- [GitHub Portfolio](https://github.com/KarthikM-Cyber)
+- Available upon request via Google Drive / Google Sites
+
+---
+
+*Updated: 2025*
