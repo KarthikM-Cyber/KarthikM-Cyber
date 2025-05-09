@@ -7,7 +7,7 @@ Cybersecurity enthusiast with a Google Cybersecurity Certificate, currently deve
 
 ---
 
-## 🧾 Professional Statement
+## 🧾 Professional Summary
 As a passionate and driven cybersecurity learner, I am dedicated to helping protect organizations from evolving digital threats. I enjoy working with technology, analyzing complex security incidents, and continuously expanding my knowledge to contribute to safe and resilient cyber environments.
 
 ---
