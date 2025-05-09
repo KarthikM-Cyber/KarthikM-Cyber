@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 Project  
-### [1.📑 Incident Response Analysis Case Study](https://github.com/KarthikM-Cyber/Cyber_1) 
+### [1.📑 DDoS Incident Response Analysis with NIST CSF](https://github.com/KarthikM-Cyber/Cyber_1) 
 ### [2.📑Botium Toys Security Audit & Compliance Review](https://github.com/KarthikM-Cyber/Cyber_1)   
 *Click title to view detailed documentation*  
 
