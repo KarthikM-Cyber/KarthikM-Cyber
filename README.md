@@ -7,36 +7,14 @@
 ---
 
 ## 🚀 Project  
-### [📑 Incident Response Analysis Case Study](https://github.com/KarthikM-Cyber/Cyber_1)  
+### [1.📑 Incident Response Analysis Case Study](https://github.com/KarthikM-Cyber/Cyber_1) 
+### [2.📑Botium Toys Security Audit & Compliance Review](https://github.com/KarthikM-Cyber/Cyber_1)   
 *Click title to view detailed documentation*  
 
-## 📚 Education  
-**Bachelor of Engineering in Biomedical Engineering**  
-Sona College of Technology | CGPA: 7.0/10  
-*Relevant Self-Study: Network Protocols, Security Fundamentals*
-
----
 
 ## 📜 Certifications  
 - Google Cybersecurity Professional Certificate (2024)  
 - Google AI Essentials (2024)  
-
----
-
-## 💼 Practical Exposure  
-**TCS Cybersecurity Simulation**  
-- Practiced security documentation workflows  
-- Analyzed access control scenarios  
-
-**Mastercard Virtual Program**  
-- Conducted phishing email investigations  
-- Assisted security awareness content creation  
-
----
-
-
-
----
 
 ## 📬 Contact for Opportunities  
 📧 [karthik.022@outlook.com](mailto:karthik.022@outlook.com)  
