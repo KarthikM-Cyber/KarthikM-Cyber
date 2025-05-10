@@ -16,7 +16,8 @@ Conducted a comprehensive analysis of a DDoS attack incident using the NIST Cybe
 
 ### [2. 📑 Botium Toys Security Audit & Compliance Review](https://github.com/KarthikM-Cyber/cyber_2)
 Performed a simulated security audit of a fictional company. Identified vulnerabilities, evaluated compliance, and documented improvement recommendations in alignment with security best practices.
-
+### [3. 📑 Ransomware Detection in Retail Network with MITRE ATT&CK]()
+Collaborated on a hypothesis-driven threat hunting project focused on identifying ransomware activities in a retail network using Splunk. Applied the PEAK Threat Hunting Framework to detect Windows Defender evasion techniques, leveraging the T1059.003 Windows Command Shell from MITRE ATT&CK to refine the hunt and document findings.
 > *Click on project titles to view full documentation.*
 
 ---
